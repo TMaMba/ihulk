@@ -1,4 +1,4 @@
 ihulk
 =====
 
-Web Server DoS Tool/Web Stress Tool
+Advanced Web Server DoS Tool/Web Stress Tool
