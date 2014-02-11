@@ -60,7 +60,6 @@ def buildblock(size):
 def usage():
 	print '---------------------------------------------------'
 	print 'USAGE: python ihulk.py [threads] <url>'
-	print 'you can add "safe" after url, to autoshut after dos'
 	print '---------------------------------------------------'
 
 	
