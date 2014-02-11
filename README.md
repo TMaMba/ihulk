@@ -4,10 +4,7 @@ ihulk
 Advanced Web Server DoS Tool/Web Stress Tool
 
 useage:
----------------------------------------------------
-USAGE: python ihulk.py [threads] url
-you can add "safe" after url, to autoshut after dos
----------------------------------------------------
+python ihulk.py [threads] url
 
 Some Techniques:
 1. Obfuscation of Source Client – this is done by using a list of known User Agents, and for every request that is constructed, the User Agent is a random value out of the useragent list
